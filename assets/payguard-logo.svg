@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="PayGuard AI shield logo">
+  <rect width="512" height="512" rx="116" fill="#24194f"/>
+  <path d="M256 77 397 129v111c0 93-54 151-141 198-87-47-141-105-141-198V129z" fill="#765bdd"/>
+  <path d="M256 109 367 150v90c0 72-40 119-111 159-71-40-111-87-111-159v-90z" fill="#fff"/>
+  <path d="m208 251 34 35 71-78" fill="none" stroke="#49b99c" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

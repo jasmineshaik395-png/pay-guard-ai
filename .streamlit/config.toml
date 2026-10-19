@@ -1,0 +1,7 @@
+[server]
+# The managed gateway rewrites Host to an internal service name while browsers
+# retain the public Origin. Allow only the published site and its stable Preview.
+corsAllowedOrigins = [
+  "https://payguard-dps6tdyk.manus.space",
+  "https://8328-ihvsaymu5j8ztae6ox2l8-3c66f6d1.sg2.manus.computer",
+]
